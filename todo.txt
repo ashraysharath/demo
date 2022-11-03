@@ -3,3 +3,6 @@
 3.Code
 4.Test
 5.Sleep
+6.Travel
+7.Ride
+8.Rest
